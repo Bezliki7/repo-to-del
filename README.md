@@ -1,5 +1,3 @@
 # repo-to-del
 
-- readme
-- readme
-- readme
+- практика №2
